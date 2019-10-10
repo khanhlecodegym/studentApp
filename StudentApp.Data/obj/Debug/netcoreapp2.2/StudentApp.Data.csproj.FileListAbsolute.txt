@@ -1,0 +1,14 @@
+E:\ProjectNET\StudentApp\StudentApp.Data\bin\Debug\netcoreapp2.2\StudentApp.Data.deps.json
+E:\ProjectNET\StudentApp\StudentApp.Data\bin\Debug\netcoreapp2.2\StudentApp.Data.dll
+E:\ProjectNET\StudentApp\StudentApp.Data\bin\Debug\netcoreapp2.2\StudentApp.Data.pdb
+E:\ProjectNET\StudentApp\StudentApp.Data\bin\Debug\netcoreapp2.2\StudentApp.Core.dll
+E:\ProjectNET\StudentApp\StudentApp.Data\bin\Debug\netcoreapp2.2\StudentApp.Core.pdb
+E:\ProjectNET\StudentApp\StudentApp.Data\obj\Debug\netcoreapp2.2\StudentApp.Data.csprojAssemblyReference.cache
+E:\ProjectNET\StudentApp\StudentApp.Data\obj\Debug\netcoreapp2.2\StudentApp.Data.csproj.CoreCompileInputs.cache
+E:\ProjectNET\StudentApp\StudentApp.Data\obj\Debug\netcoreapp2.2\StudentApp.Data.AssemblyInfoInputs.cache
+E:\ProjectNET\StudentApp\StudentApp.Data\obj\Debug\netcoreapp2.2\StudentApp.Data.AssemblyInfo.cs
+E:\ProjectNET\StudentApp\StudentApp.Data\obj\Debug\netcoreapp2.2\StudentApp.Data.csproj.CopyComplete
+E:\ProjectNET\StudentApp\StudentApp.Data\obj\Debug\netcoreapp2.2\StudentApp.Data.dll
+E:\ProjectNET\StudentApp\StudentApp.Data\obj\Debug\netcoreapp2.2\StudentApp.Data.pdb
+E:\ProjectNET\StudentApp\StudentApp.Data\bin\Debug\netcoreapp2.2\StudentApp.Data.runtimeconfig.json
+E:\ProjectNET\StudentApp\StudentApp.Data\bin\Debug\netcoreapp2.2\StudentApp.Data.runtimeconfig.dev.json

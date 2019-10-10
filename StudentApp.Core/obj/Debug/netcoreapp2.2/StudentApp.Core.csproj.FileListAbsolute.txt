@@ -1,0 +1,9 @@
+E:\ProjectNET\StudentApp\StudentApp.Core\bin\Debug\netcoreapp2.2\StudentApp.Core.deps.json
+E:\ProjectNET\StudentApp\StudentApp.Core\bin\Debug\netcoreapp2.2\StudentApp.Core.dll
+E:\ProjectNET\StudentApp\StudentApp.Core\bin\Debug\netcoreapp2.2\StudentApp.Core.pdb
+E:\ProjectNET\StudentApp\StudentApp.Core\obj\Debug\netcoreapp2.2\StudentApp.Core.csproj.CoreCompileInputs.cache
+E:\ProjectNET\StudentApp\StudentApp.Core\obj\Debug\netcoreapp2.2\StudentApp.Core.AssemblyInfoInputs.cache
+E:\ProjectNET\StudentApp\StudentApp.Core\obj\Debug\netcoreapp2.2\StudentApp.Core.AssemblyInfo.cs
+E:\ProjectNET\StudentApp\StudentApp.Core\obj\Debug\netcoreapp2.2\StudentApp.Core.dll
+E:\ProjectNET\StudentApp\StudentApp.Core\obj\Debug\netcoreapp2.2\StudentApp.Core.pdb
+E:\ProjectNET\StudentApp\StudentApp.Core\obj\Debug\netcoreapp2.2\StudentApp.Core.csprojAssemblyReference.cache
